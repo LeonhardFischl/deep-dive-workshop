@@ -1,3 +1,20 @@
+# Recommendations - What should you know before?
+1. You should be familar with git commands
+2. You should use git commits for your steps
+=> Use granular (baby) steps for the exercise
+3. You should be familar with docker commands
+=> At least you should know how to interprete the docker docs (https://docs.docker.com/) :) 
+4. You should have done the following exercises with git:
+=> https://learngitbranching.js.org/?locale=de_DE
+
+
+# How can you achieve the requirements?
+Easy way to learn git without breaking your project:
+=> https://learngitbranching.js.org/?locale=de_DE
+Docker docs:
+=> https://docs.docker.com/
+
+
 # How to do use this repository?
 1. Use git clone
 2. Copy the jar file from source
