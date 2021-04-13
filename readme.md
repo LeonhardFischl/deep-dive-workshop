@@ -19,7 +19,7 @@ Docker docs:
 2. Copy the jar file from source
 3. Create a docker file
   - Select a valid, official base image
-  -  Prepare your ports
+  - Prepare your ports
   - Prepare your application folder
   - Define your build image
   - Prepare your steps for the build (copy, modify, etc.)

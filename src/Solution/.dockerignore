@@ -1,0 +1,10 @@
+﻿.idea/
+.vscode/
+*.Tests/
+SampleApp.sln*
+.editorconfig
+.gitignore
+
+*/obj
+*/bin
+*.log
